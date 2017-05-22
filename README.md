@@ -1,2 +1,2 @@
 # personalsite
-A profile website tutorial &lt;Medium />
+Build a modern personal website from scratch (Medium.com link)
